@@ -20,7 +20,7 @@ According to their official website, it’s city-friendly for [digital nomads](h
 4. **Hakata Machiya Folk Museum**:
    - A museum showcasing the traditional lifestyle and crafts of the Hakata area, with interactive exhibits and historical displays.
 
-5. **Kushida Shrine**:
+5. **[[Places/Kushida Shrine\|Kushida Shrine]]**:
    - One of Fukuoka’s oldest Shinto shrines is known for its beautiful architecture and significance in the Hakata Gion Yamakasa festival.
 
 6. **Fukuoka Tower**:
