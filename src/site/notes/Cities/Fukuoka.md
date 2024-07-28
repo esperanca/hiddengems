@@ -11,7 +11,7 @@ According to their official website, it’s city-friendly for [digital nomads](h
 1. **Ohori Park**:
    - A large, scenic park featuring a central lake, beautiful gardens, and a traditional Japanese garden. It's perfect for a stroll or a picnic.
 
-2. **Fukuoka Castle Ruins**:
+2. [[Places/Fukuoka Castle Ruins\|Fukuoka Castle Ruins]]:
    - Located within Maizuru Park, these ruins offer a glimpse into the city's feudal past and beautiful views of the surrounding area.
 
 3. **Canal City Hakata**:

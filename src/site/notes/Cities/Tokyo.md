@@ -6,7 +6,7 @@ For food enthusiasts visiting Tokyo in October, several hidden gems and must-try
 
 ### Hidden Culinary Gems
 
-1. **Ryogoku**  
+1. [[Places/Ryogoku\|Ryogoku]]
    Known for its sumo culture, Ryogoku is not just about the sport; it’s also a great place to try **chanko nabe**, a hearty stew traditionally consumed by sumo wrestlers. The area features sumo-related activities and museums, making it a culturally rich dining experience[1].
 
 2. **Shimokitazawa**  
