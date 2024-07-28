@@ -8,7 +8,7 @@ The best time to experience this transformation varies by region, typically star
 ## Cities
 [[Cities/Fukuoka\|Fukuoka]]
 [[Cities/Nagano\|Nagano]]
-[[Tokyo\|Tokyo]]
+[[Cities/Tokyo\|Tokyo]]
 
 ## Places
 [[Places/Gotokuji\|Gotokuji]]

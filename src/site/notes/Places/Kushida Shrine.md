@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/places/kushida-shrine/"}
 ---
 
+
+> [!NOTE] Kushida Shrine is in [[Cities/Fukuoka\|Fukuoka]]
+> This place is popular with locals
+
 [![place photo](https://place.matcha-jp.com/resize/720x2000/2024/04/19-14-01-38-55a81bf6c150a9d3e6220a9844c07b5468.webp)](https://matcha-jp.com/en/place-master/673)
 **Kushida Shrine** is located in the center of Fukuoka. Its history goes back as early as 757 when Hakata was flourishing as a port city that welcomed delegations from mainlland China and Korea.
 
@@ -19,7 +23,7 @@ The best times of day to visit Kushida Shrine in autumn are early morning and la
 
 ### Additional Considerations
 
-- **Cultural Events**: If your visit coincides with special events, such as the [[Hakata Okunchi Festival\|Hakata Okunchi Festival]] in October, plan to arrive earlier in the day to fully enjoy the festivities and avoid larger crowds.
+- **Cultural Events**: If your visit coincides with special events, such as the [[Events/Hakata Okunchi Festival\|Hakata Okunchi Festival]] in October, plan to arrive earlier in the day to fully enjoy the festivities and avoid larger crowds.
 
 You can make the most of your experience at Kushida Shrine during the beautiful autumn season by timing your visit to either early morning or late afternoon.
 
