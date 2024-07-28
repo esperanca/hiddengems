@@ -4,4 +4,6 @@
 
 [[Places/Gotokuji\|Gotokuji]]
 [[Cities/Fukuoka\|Fukuoka]]
+[[Places/Kumoba Pond\|Kumoba Pond]]
+
 
